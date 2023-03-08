@@ -28,8 +28,7 @@ namespace OperacionesAritmeticas
             Console.WriteLine($"El resultado de la resta es: {resta}");
             Console.WriteLine($"El resultado de la multipliación es: {mult}");
             Console.WriteLine($"El resultado de la división es: {div}");
-           
-
+          
         }
     }
 }
