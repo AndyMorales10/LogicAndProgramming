@@ -16,7 +16,7 @@ namespace Ejercicio24
             meses = CalcularMeses(dias);
             dias = meses * 30;
 
-            MostrarResultado(anios, meses, dias);
+            MostrarResultado(anios, meses, dias); 
         }
 
         private static int CalcularAnios(int dias)
